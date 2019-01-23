@@ -1,0 +1,12 @@
+{
+  "name": "ChiX",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jjge732/ChiX.git",
+  "author": "John <jjge732@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4"
+  }
+}
